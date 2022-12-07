@@ -33,7 +33,7 @@ let reviews = [
     image: "/images/cake-four.jpg",
     text: "Большое спасибо за чудо-тортик!!!!Были все в восторге от такой красоты и вкусноты!))",
     name: "Алексей",
-    date: "27.01.2022",
+    date: "27.07.2022",
   },
   {
     image: "/images/cake-three.jpg",
